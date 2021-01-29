@@ -1,6 +1,6 @@
 ### Hey, I'm Sepand! 👋
 
-🔭 I'm a Computer Science and Physics student at UBC, passionate about tech, space, and building cool things! Currently, I'm a research intern at Polytechnique Montréal, working on a robotic swarms project (think bee or ant-like autonimous coordination).
+🔭 I'm a Computer Science and Physics student at UBC, passionate about tech, space, and building cool things! Currently, I'm a research intern at Polytechnique Montréal, working on a robotic swarms project (think bee or ant-like autonomous coordination).
 
 🌱 This summer, I was an SDE intern at Amazon with the Amazon Fuse team. Before that, I was an intern at the European Space Agency, specifically on the CAVES and PANGAEA team at the European Astronaut Centre.
 
